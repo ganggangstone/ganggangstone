@@ -1,4 +1,3 @@
-
 ## Projects
 
 - **[make-my-textbook](https://github.com/ganggangstone/make-my-textbook)**: Custom textbooks for the AI era. Turn code and papers into a study textbook at your level, with every sentence graded by source.
